@@ -1,7 +1,7 @@
 package Coding_Questions;
 
 import java.lang.reflect.Array;
-
+//doesn't work for specific condition 
 public class Majority_Element {
 	static void find_majority_Element(int array[],int l)
  {  
